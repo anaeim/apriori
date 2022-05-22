@@ -71,7 +71,7 @@ min_confidence = 0.8
 Number of frequent 1_itemsets: 334  
 Number of frequent 2_itemsets: 174  
 Number of association rules: 0  
-**Run time**: 1.695 seconds  
+**Run time**: 1.695 seconds    
 
 #### For 100 transactions:
 ***Dataset***: `dataT10K500D12L.data_100.txt` (the first top 100 transactions)  

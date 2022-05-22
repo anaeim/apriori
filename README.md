@@ -67,21 +67,16 @@ Number of association rules: 161856
 ***Dataset***: `dataT10K500D12L.data_1000.txt` (the first top 1000 transactions)  
 min_support = 0.01  
 min_confidence = 0.8  
-
-
 **To run**: `./main dataT10K500D12L.data_1000.txt 0.01 0.8`  
 Number of frequent 1_itemsets: 334  
 Number of frequent 2_itemsets: 174  
 Number of association rules: 0  
 **Run time**: 1.695 seconds  
 
-
 #### For 100 transactions:
 ***Dataset***: `dataT10K500D12L.data_100.txt` (the first top 100 transactions)  
 min_support = 0.1  
 min_confidence = 0.8  
-
-
 **To run**: `./main dataT10K500D12L.data_100.txt 0.1 0.8`  
 Number of frequent 1_itemsets: 10  
 Number of association rules: 0  

@@ -46,8 +46,6 @@ Operating system: Linux Ubuntu
 ***Dataset***: `T10K500D12L.data.txt`  
 min_support = 0.001  
 min_confidence = 0.8  
-
-
 **To run**: `./main dataT10K500D12L.data.txt 0.001 0.8`  
 Number of frequent 1_itemsets: 472  
 Number of frequent 2_itemsets: 24085  
